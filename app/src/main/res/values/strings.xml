@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">QUIZMASTER</string>
+    <string name="true_btn">TRUE</string>
+    <string name="false_btn">FALSE</string>
+
+    <string name="QUESTION_1">Denis Ritchie is the creator of the C-language.</string>
+    <string name="QUESTION_2">C-language is a Mid level language.</string>
+    <string name="QUESTION_3">Printf is used for printing any statement .</string>
+    <string name="QUESTION_4">a+b is binary operator.</string>
+    <string name="QUESTION_5">The default value for static variable is 1.</string>
+    <string name="QUESTION_6">String is an array of characters.</string>
+    <string name="QUESTION_7">Do-while loop is an Entry controlled loop.</string>
+    <string name="QUESTION_8">In C,function overloading is possible.</string>
+    <string name="QUESTION_9">Volatile is a storage class specifier in C.</string>
+    <string name="QUESTION_10">Stack data structure is used to handle recursion in C .</string>
+
+
+    <string name="QUESTION_11">Bjarne Stroustrup is invented C++.</string>
+    <string name="QUESTION_12">C++ is a functional programming language.</string>
+    <string name="QUESTION_13">.cpp is user defined file extension used in C++ .</string>
+    <string name="QUESTION_14">Friend Constructor is a type of constructor in C++.</string>
+    <string name="QUESTION_15"># Symbol is used to declare the preprocessor directive.</string>
+    <string name="QUESTION_16">Constructor having return type.</string>
+    <string name="QUESTION_17">Private,Public,Protected are the access specifiers in C++.</string>
+    <string name="QUESTION_18">C++ uses Bottom-Up approach.</string>
+    <string name="QUESTION_19">a++ is the pre-increament operator.</string>
+    <string name="QUESTION_20">::is the scope resolution operator .</string>
+
+    <string name="QUESTION_21">Java is a High-level language.</string>
+    <string name="QUESTION_22">System.out.print is used for printing any statement in java.</string>
+    <string name="QUESTION_23">String class belong to java.lang .</string>
+    <string name="QUESTION_24">Java does have the concept of pointers.</string>
+    <string name="QUESTION_25">Java programming is invented by James Gasling.</string>
+    <string name="QUESTION_26">JDK is used to Compile,Debug and Execute the java programs.</string>
+    <string name="QUESTION_27">.java is the extension of Java code.</string>
+    <string name="QUESTION_28">Void is an access modifier .</string>
+    <string name="QUESTION_29">There are eight primitive data types in Java.</string>
+    <string name="QUESTION_30">The size of float and double in Java is 32 and 64 .</string>
+
+
+
+
+</resources>
